@@ -3,7 +3,7 @@ mox_tools v0.1 alpha
 
 *CURRENTLY UNDER DEVELOPMENT.*
 
-A JavaScript based toolset to help aid in the development of responsive/adaptive web sites, that also comes bundled with the mox theme boilerplate.
+A JavaScript based toolset to help aid in the development of responsive/adaptive web sites, that also comes bundled with the [mox theme](http://github.com/kalms/mox) boilerplate for Drupal 7.
 
 Currently it supports updated sizes on regions that you can define in debug.js, and a window size, that updates as you resize the browser window.
 

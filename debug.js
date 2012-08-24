@@ -5,6 +5,7 @@
  *
  * @TODO
  *  Move from an anonymous function to a named function.
+ *  Implement grid functionality.
  */ 
 $(function () {
   // Default options.
@@ -13,7 +14,7 @@ $(function () {
     responsiveKey:  '1',
     // Show regions sizes.
     elementSizeKey: '2',
-    cookiePrefix:   'peytzDebug',
+    cookiePrefix:   'debug',
     // Elements, that have children you need to measure.
     regionElements: [
       '#main', 
